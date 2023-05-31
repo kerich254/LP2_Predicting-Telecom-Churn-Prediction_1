@@ -22,4 +22,4 @@ In this project, we aim to find the likelihood of a customer leaving the organiz
 
 ## Author
 
-Kerich Kibet Mike
+Kerich Kibet Mike.
