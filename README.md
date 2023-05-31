@@ -28,7 +28,7 @@ kerich.mike
 
 kerich.mike@azubiafrica.org
 
-git config --global user.name  "kerich254"
+git config --global user.name "kerich254"
 git config --global user.email "kerich.mike@azubiafrica.org"
 
 https://github.com/kerich254/LP2_Predicting-Telecom-Churn-Prediction_1.git
@@ -37,3 +37,6 @@ git remote set-url origin https://kerich.mike@github.com/kerich.mike/project_nam
 
 git remote set-url origin https://github.com/kerich254/LP2_Predicting-Telecom-Churn-Prediction_1.git
 
+printf "Host=bitbucket.org\nprotocol=https\kerich254=kipkuruibarnaba" | git credential-manager-core erase
+
+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
